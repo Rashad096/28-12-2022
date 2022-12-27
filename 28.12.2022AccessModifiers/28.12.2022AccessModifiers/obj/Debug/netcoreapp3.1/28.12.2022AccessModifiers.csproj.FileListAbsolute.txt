@@ -1,0 +1,14 @@
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\bin\Debug\netcoreapp3.1\28.12.2022AccessModifiers.exe
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\bin\Debug\netcoreapp3.1\28.12.2022AccessModifiers.deps.json
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\bin\Debug\netcoreapp3.1\28.12.2022AccessModifiers.runtimeconfig.json
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\bin\Debug\netcoreapp3.1\28.12.2022AccessModifiers.runtimeconfig.dev.json
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\bin\Debug\netcoreapp3.1\28.12.2022AccessModifiers.dll
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\bin\Debug\netcoreapp3.1\28.12.2022AccessModifiers.pdb
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\obj\Debug\netcoreapp3.1\28.12.2022AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\obj\Debug\netcoreapp3.1\28.12.2022AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\obj\Debug\netcoreapp3.1\28.12.2022AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\obj\Debug\netcoreapp3.1\28.12.2022AccessModifiers.AssemblyInfo.cs
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\obj\Debug\netcoreapp3.1\28.12.2022AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\obj\Debug\netcoreapp3.1\28.12.2022AccessModifiers.dll
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\obj\Debug\netcoreapp3.1\28.12.2022AccessModifiers.pdb
+C:\Users\abbas\source\repos\28.12.2022AccessModifiers\28.12.2022AccessModifiers\obj\Debug\netcoreapp3.1\28.12.2022AccessModifiers.genruntimeconfig.cache
